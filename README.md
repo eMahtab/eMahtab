@@ -4,8 +4,8 @@
 
 - 👀 I’m interested in Software Development & Design
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I love Ginger tea, good food and travelling.
+- 📫 I write about my learnings and life experiences [![My website](https://www.mahtabalam.net)](https://www.mahtabalam.net)
 
 <!---
 eMahtab/eMahtab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
