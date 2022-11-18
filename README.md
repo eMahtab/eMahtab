@@ -3,7 +3,7 @@
 ![](https://github.com/eMahtab/eMahtab/blob/main/profile.jpg)
 
 - 👀 I’m interested in Software Development & Design
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently working with Node.js, React and Go
 - 💞️ I love Ginger tea, good food and travelling.
 - 📫 I write about my learnings and life experiences at <a href="https://www.mahtabalam.net" target="blank">mahtabalam.net</a>
 <!---
