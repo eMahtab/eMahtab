@@ -2,7 +2,7 @@
 
 ![](https://github.com/eMahtab/eMahtab/blob/main/mahtab.jpg)
 
-- 👀 Interested in Software Development & Design
+- 👀 Interested in Distributed Systems, Software Development & Design
 - 🌱 Currently working with Node.js, React and Go
 - 💞️ Love Ginger tea, good food and travelling.
 - 📫 I write about my learnings and life experiences at <a href="https://www.mahtabalam.net" target="blank">mahtabalam.net</a>
