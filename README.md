@@ -13,18 +13,17 @@
 
 2. [Optimistic Locking example using version with MySQL database table](https://github.com/eMahtab/optimistic-locking)
 
-3. [Redis Code Snippets for Java using Jedis library](https://github.com/eMahtab/redis-example-with-jedis)
+3. [A demo showing MySQL data replication from Master to Slave](https://github.com/eMahtab/mysql-master-slave-replication)
 
-4. [A demo showing MySQL data replication from Master to Slave](https://github.com/eMahtab/mysql-master-slave-replication)
+4. [A demo on MySQL Master Slave Replication with multiple replicas](https://github.com/eMahtab/mysql-master-slave-replication-with-multiple-replicas)
 
-5. [A demo on MySQL Master Slave Replication with multiple replicas](https://github.com/eMahtab/mysql-master-slave-replication-with-multiple-replicas)
+5. [A demo showing bidirectional database replication between two MySQL master](https://github.com/eMahtab/mysql-master-master-replication)
 
-6. [A demo showing bidirectional database replication between two MySQL master](https://github.com/eMahtab/mysql-master-master-replication)
+6. [MySQL Table Partitioning demo (partitioning a table with 100 Million messages)](https://github.com/eMahtab/mysql-table-partitioning)
 
-7. [MySQL table partitioning demo (partitioning a table with 100 Million messages)](https://github.com/eMahtab/mysql-table-partitioning)
+7. [MySQL Horizontal Sharding demo with 4 shards](https://github.com/eMahtab/mysql-horizontal-sharding-demo)
 
-8. [MySQL horizontal sharding demo with 4 shards](https://github.com/eMahtab/mysql-horizontal-sharding-demo)
-
+8. [Redis Code Snippets for Java using Jedis library](https://github.com/eMahtab/redis-example-with-jedis)
 <!---
 eMahtab/eMahtab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
