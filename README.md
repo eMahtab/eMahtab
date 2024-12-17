@@ -7,7 +7,7 @@
 - 💞️ Love Ginger tea, good food and travelling.
 - 📫 I write about my learnings and life experiences at <a href="https://www.mahtabalam.net" target="blank">mahtabalam.net</a>
 
-### Some of the recent repositories I updated :
+### Some of the repositories which I updated recently :
 
 1. [Pessimistic Locking example over MySQL database table row](https://github.com/eMahtab/pessimistic-locking)
 
