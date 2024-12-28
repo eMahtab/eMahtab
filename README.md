@@ -24,6 +24,8 @@
 7. [MySQL Horizontal Sharding demo with 4 shards](https://github.com/eMahtab/mysql-horizontal-sharding-demo)
 
 8. [Redis Code Snippets for Java using Jedis library](https://github.com/eMahtab/redis-example-with-jedis)
+
+9. [Spring projects code e.g. Spring Core, Spring MVC, Spring Boot etc.](https://github.com/eMahtab/spring-projects)
 <!---
 eMahtab/eMahtab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
