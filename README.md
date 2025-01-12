@@ -7,7 +7,7 @@
 - 💞️ Love Ginger tea, good food and travelling.
 - 📫 I write about my learnings and life experiences at <a href="https://www.mahtabalam.net" target="blank">mahtabalam.net</a>
 
-### Some of the repositories which I updated recently :
+### Some of the projects/demos which I updated recently :
 
 1. [Pessimistic Locking example over MySQL database table row](https://github.com/eMahtab/pessimistic-locking)
 
@@ -28,6 +28,12 @@
 9. [Spring projects code e.g. Spring Core, Spring MVC, Spring Boot, Spring Data MongoDB, Spring Kafka etc.](https://github.com/eMahtab/spring-projects)
 
 10. [Change Data Capture with Debezium and Kafka](https://github.com/eMahtab/cdc-with-debezium-and-kafka)
+
+11. [Protobuf Serialization & Deserialization example in Java](https://github.com/eMahtab/java-projects/tree/master/protobuf-example)
+
+12. [gRPC example in Java](https://github.com/eMahtab/java-projects/tree/master/simple-grpc-example)
+
+13. [Circuit Breaker in Spring Boot Microservices using Resilience4j](https://github.com/eMahtab/spring-projects/tree/main/spring-boot/circuit-breaker-example)
 <!---
 eMahtab/eMahtab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
