@@ -29,15 +29,18 @@
 
 10. [Change Data Capture with Debezium and Kafka](https://github.com/eMahtab/cdc-with-debezium-and-kafka)
 
-11. [Protobuf Serialization & Deserialization example in Java](https://github.com/eMahtab/java-projects/tree/master/protobuf-example)
+11. [Serializing & Deserializing objects using Jackson Json](https://github.com/eMahtab/java-projects/tree/master/jackson-json-serialization)
 
-12. [gRPC example in Java](https://github.com/eMahtab/java-projects/tree/master/simple-grpc-example)
+12. [Protobuf Serialization & Deserialization example in Java](https://github.com/eMahtab/java-projects/tree/master/protobuf-example)
 
-13. [Circuit Breaker in Spring Boot Microservices using Resilience4j](https://github.com/eMahtab/spring-projects/tree/main/spring-boot/circuit-breaker-example)
+13. [gRPC example in Java](https://github.com/eMahtab/java-projects/tree/master/simple-grpc-example)
 
-14. [Spring Boot REST API with MongoDB](https://github.com/eMahtab/spring-projects/tree/main/spring-boot/rest-api-mongodb)
+14. [Circuit Breaker in Spring Boot Microservices using Resilience4j](https://github.com/eMahtab/spring-projects/tree/main/spring-boot/circuit-breaker-example)
 
-15. [Producing & Consuming JSON messages with Spring Kafka](https://github.com/eMahtab/spring-projects/tree/main/spring-kafka/spring-kafka-json)
+15. [Spring Boot REST API with MongoDB](https://github.com/eMahtab/spring-projects/tree/main/spring-boot/rest-api-mongodb)
+
+16. [Producing & Consuming JSON messages with Spring Kafka](https://github.com/eMahtab/spring-projects/tree/main/spring-kafka/spring-kafka-json)
+
 <!---
 eMahtab/eMahtab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
