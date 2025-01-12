@@ -34,6 +34,10 @@
 12. [gRPC example in Java](https://github.com/eMahtab/java-projects/tree/master/simple-grpc-example)
 
 13. [Circuit Breaker in Spring Boot Microservices using Resilience4j](https://github.com/eMahtab/spring-projects/tree/main/spring-boot/circuit-breaker-example)
+
+14. [Spring Boot REST API with MongoDB](https://github.com/eMahtab/spring-projects/tree/main/spring-boot/rest-api-mongodb)
+
+15. [Producing & Consuming JSON messages with Spring Kafka](https://github.com/eMahtab/spring-projects/tree/main/spring-kafka/spring-kafka-json)
 <!---
 eMahtab/eMahtab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
