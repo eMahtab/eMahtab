@@ -1,6 +1,6 @@
 ## 👋 Hi , I'm Mahtab مهتاب 👋
 
-![](https://github.com/eMahtab/eMahtab/blob/main/mahtab.jpg)
+![](https://github.com/eMahtab/eMahtab/blob/main/profile.jpg)
 
 - 👀 Interested in Distributed Systems, Software Development & Design
 - 🌱 Currently working with Java, Node.js, React and Go
